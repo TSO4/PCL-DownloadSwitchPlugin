@@ -1,3 +1,5 @@
+不要下载这个页面的内容，工具zip的下载地址：https://github.com/TSO4/PCL-DownloadSwitchPlugin/releases
+
 # PCL DownloadSwitchPlugin
 
 PCL 第三方下载开关与独立备用安装器。
@@ -8,7 +10,7 @@ PCL 第三方下载开关与独立备用安装器。
 
 ## 下载与安装
 
-普通用户请到本仓库右侧的 **Releases（发行版）**，下载 `PCL-DownloadSwitch-1.3.2.zip`。
+普通用户请到本仓库右侧的 **Releases（发行版）**，（或者点击这个链接：https://github.com/TSO4/PCL-DownloadSwitchPlugin/releases）下载 `PCL-DownloadSwitch-1.3.2.zip`。
 GitHub 自动提供的 `Source code (zip)` 是源码，需要自行编译。
 
 1. 找到平时使用的 PCL 主程序，在它旁边打开 `PCL` 文件夹。
@@ -103,3 +105,5 @@ GitHub 自动提供的 `Source code (zip)` 是源码，需要自行编译。
 本项目不包含 Minecraft 游戏文件，不重新授权 PCL 或其他第三方项目。
 第三方修改、重新编译或重新打包的版本不代表本仓库作者发布或认可。
 许可证及完整说明见随包文档；SHA 相同用于比较文件内容，不等于安全认证。
+
+有帮助的话麻烦给项目点个star
