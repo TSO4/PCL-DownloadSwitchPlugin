@@ -1,0 +1,14 @@
+# Local runtime state, game files and generated build output.
+**/data/
+**/build/
+**/.minecraft/
+.vs/
+*.log
+*.pdb
+*.obj
+*.lib
+*.exp
+*.user
+Thumbs.db
+
+# Keep source/vendor/Mono.Cecil.dll: it is an intentional build dependency.
