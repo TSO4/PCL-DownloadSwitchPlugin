@@ -11,7 +11,8 @@ PCL 第三方下载开关与独立备用安装器。
 ## 下载与安装
 
 普通用户请到本仓库右侧的 **Releases（发行版）**，或者点击这个链接：https://github.com/TSO4/PCL-DownloadSwitchPlugin/releases
-下载对应链接里面的"PCL-DownloadSwitch-1.3.2.zip"。
+
+下载对应链接里面的`PCL-DownloadSwitch-1.3.2.zip`。   
 GitHub 自动提供的 `Source code (zip)` 是源码，需要自行编译。
 
 1. 找到平时使用的 PCL 主程序，在它旁边打开 `PCL` 文件夹。
